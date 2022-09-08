@@ -1,3 +1,3 @@
-Viloyat, tuman & shahar, rus va uzbek tillarida
+Viloyat, tuman va shahar, rus va uzbek tillarida
 
-regions = 15 distircts = 202
+region = 15 city = 202
