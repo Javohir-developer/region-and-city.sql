@@ -1,3 +1,3 @@
-Viloyat, tuman va shahar, rus va uzbek tillarida
+База данных sql областей и городов Узбекистана на русском и узбекском языках
 
-region = 15 city = 202
+областей = 15 городов = 202
